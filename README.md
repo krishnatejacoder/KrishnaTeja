@@ -3,7 +3,7 @@
 
 <h1>I'm from India</h1>
 
-- 🌱 I’m currently learning frontend and DSA
+- 🌱 I’m currently learning frontend , Deep Learnign and DSA
 
 - 👯 I’m looking to collaborate on **Innovative Projects**
 
